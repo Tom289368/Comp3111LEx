@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f81ac84d-e215-4e56-85c8-b4d6b2cc35f4" name="Changes" comment="This is my second commit for Comp3111LEx Project, the first one was not correct">
+    <list default="true" id="f81ac84d-e215-4e56-85c8-b4d6b2cc35f4" name="Changes" comment="add two print lines as report heading">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +21,19 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -84,7 +96,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1725937065097</updated>
-      <workItem from="1725937066446" duration="8952000" />
+      <workItem from="1725937066446" duration="9302000" />
     </task>
     <task id="LOCAL-00001" summary="This is an initial commit for Comp3111LEx Project">
       <option name="closed" value="true" />
@@ -102,13 +114,41 @@
       <option name="project" value="LOCAL" />
       <updated>1725942029192</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add two print lines as report heading">
+      <option name="closed" value="true" />
+      <created>1726375053958</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726375053958</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
@@ -119,7 +159,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/main" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -134,7 +174,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="This is an initial commit for Comp3111LEx Project" />
     <MESSAGE value="This is my second commit for Comp3111LEx Project, the first one was not correct" />
-    <option name="LAST_COMMIT_MESSAGE" value="This is my second commit for Comp3111LEx Project, the first one was not correct" />
+    <MESSAGE value="add two print lines as report heading" />
+    <option name="LAST_COMMIT_MESSAGE" value="add two print lines as report heading" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
