@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f81ac84d-e215-4e56-85c8-b4d6b2cc35f4" name="Changes" comment="add two print lines as report heading">
+    <list default="true" id="f81ac84d-e215-4e56-85c8-b4d6b2cc35f4" name="Changes" comment="this is a commit without heading report">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lab1/mainApp1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lab1/mainApp1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lab1/mainApp1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Lab1/mainApp1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +98,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1725937065097</updated>
-      <workItem from="1725937066446" duration="9302000" />
+      <workItem from="1725937066446" duration="9685000" />
     </task>
     <task id="LOCAL-00001" summary="This is an initial commit for Comp3111LEx Project">
       <option name="closed" value="true" />
@@ -122,7 +124,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726375053958</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="this is a commit without heading report">
+      <option name="closed" value="true" />
+      <created>1726375584748</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726375584748</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,7 +185,8 @@
     <MESSAGE value="This is an initial commit for Comp3111LEx Project" />
     <MESSAGE value="This is my second commit for Comp3111LEx Project, the first one was not correct" />
     <MESSAGE value="add two print lines as report heading" />
-    <option name="LAST_COMMIT_MESSAGE" value="add two print lines as report heading" />
+    <MESSAGE value="this is a commit without heading report" />
+    <option name="LAST_COMMIT_MESSAGE" value="this is a commit without heading report" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
